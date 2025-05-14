@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning:
 
     Web Developing (HTML, CSS, JS)
-    C#
+    C# (with the framework MAUI and wpf)
 
 📚 My certification:
 
